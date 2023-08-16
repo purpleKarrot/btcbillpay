@@ -1,3 +1,5 @@
+/*eslint-env node*/
+
 import browsersync from "rollup-plugin-browsersync";
 import copy from "rollup-plugin-copy";
 import svelte from "rollup-plugin-svelte";

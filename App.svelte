@@ -210,7 +210,7 @@
 
     <div class="field is-horizontal">
       <div class="field-label is-normal">
-        <label class="label">PLZ, Ort</label>
+        <span class="label">PLZ, Ort</span>
       </div>
       <div class="field-body">
         <div class="field is-expanded">
@@ -228,7 +228,7 @@
 
     <div class="field is-horizontal">
       <div class="field-label is-normal">
-        <label class="label">Land</label>
+        <span class="label">Land</span>
       </div>
       <div class="field-body">
         <div class="field">
@@ -272,7 +272,7 @@
 
     <div class="field is-horizontal">
       <div class="field-label is-normal">
-        <label class="label">Betrag</label>
+        <span class="label">Betrag</span>
       </div>
       <div class="field-body">
         <div class="field has-addons">
@@ -300,7 +300,7 @@
 
     <div class="field is-horizontal">
       <div class="field-label is-normal">
-        <label class="label">Referenz</label>
+        <span class="label">Referenz</span>
       </div>
       <div class="field-body">
         <div class="field">
